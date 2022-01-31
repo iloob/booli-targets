@@ -10,6 +10,12 @@ Template app for testing devops skills. The apps is trying to test the following
 Booli target are an app where you can add and remove targets. The app has 2 parts one is a python app and then secound is a mysql database.
 Today the app is in dev and are working when running docker-compose build and up.
 
+
+![firstpage!](/assets/1.png)
+
+![3!](/assets/2.png)
+
+![1!](/assets/3.png)
 ## The task
 Move boolis targets into a productions hosting in a kubernetest cluster.
 
@@ -24,6 +30,10 @@ Move boolis targets into a productions hosting in a kubernetest cluster.
 
 
 ## Tasks
+
+
+### 0 Pre
+Start by buidinga and starting the app to verify we have a working app before progress
 
 
 ### 1. Better builds
